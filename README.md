@@ -63,7 +63,16 @@
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mayhemvc&show_icons=true&theme=default&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayhemvc&layout=compact&hide_border=true" /> </p>
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <a href="https://github.com/Mayhemvc">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mayhemvc&show_icons=true&theme=default&hide_border=true" alt="Estatísticas do GitHub" />
+  </a>
+  <a href="https://github.com/Mayhemvc">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayhemvc&layout=compact&hide_border=true" alt="Linguagens mais usadas" />
+  </a>
+</p>
 
 ---
 
