@@ -58,7 +58,7 @@
 ### 📌 Projetos em destaque
 
 - **[I.Agro](https://github.com/Invictus-potens/I.Agro)** — Projeto acadêmico (Unaerp): companheiro assistido por IA para agricultores. Contribuí com as operações CRUD no PostgreSQL e queries SQL para os dashboards em Grafana.
-
+<!--
 ---
 
 ### 📊 Estatísticas do GitHub
@@ -71,7 +71,7 @@
     alt="Linguagens mais usadas"
   />
 </a>
-
+-->
 ---
 
 ### 📫 Contato
