@@ -63,8 +63,6 @@
 
 ### 📊 Estatísticas do GitHub
 
-### 📊 Estatísticas do GitHub
-
 <p align="center">
   <a href="https://github.com/Mayhemvc">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mayhemvc&show_icons=true&theme=default&hide_border=true" alt="Estatísticas do GitHub" />
