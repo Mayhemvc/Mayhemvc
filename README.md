@@ -1,4 +1,4 @@
-<h3 align="center">Suporte de Sistemas em transição para Desenvolvimento Júnior</h3>
+<h3 align="center">Desenvolvedor Júnior</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bruno-henrique-ferraz-ribeiro-55910232a" target="_blank">
@@ -14,7 +14,7 @@
 ### 🧭 Sobre mim
 
 - 🎓 Cursando **Engenharia de Software** na Unaerp (2024 – 2028)
-- 💼 Atuo como **Suporte Técnico ** na Krolik – Tecnologia em Nuvem, onde apoio a criação de automações com **n8n** e **JavaScript**
+- 💼 Atuo como **Suporte de Sistemas** na Krolik – Tecnologia em Nuvem, onde apoio a criação de automações com **n8n** e **JavaScript**
 - 🌱 Aprofundando conhecimentos em **desenvolvimento backend** e **APIs REST**
 - 🎯 Buscando oportunidades como **Desenvolvedor Júnior / Trainee**
 - 🌍 Inglês avançado (B2)
@@ -63,10 +63,7 @@
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mayhemvc&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayhemvc&layout=compact&hide_border=true" />
-</p>
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mayhemvc&show_icons=true&theme=default&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayhemvc&layout=compact&hide_border=true" /> </p>
 
 ---
 
