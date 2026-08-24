@@ -1,14 +1,5 @@
 <h1 align="center">Bruno Henrique - Back-end Developer</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bruno-henrique-ferraz-ribeiro-55910232a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:brunoa2ccount@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ### 🧭 Sobre mim
@@ -79,3 +70,12 @@ Programador em formação com muita vontade de aprender novas tecnologias e ling
 ### 📫 Contato
 
 Aberto a oportunidades de **Desenvolvedor Júnior** e **Trainee**. Me chame no [LinkedIn](https://www.linkedin.com/in/bruno-henrique-ferraz-ribeiro-55910232a) ou por [e-mail](mailto:brunoa2ccount@gmail.com).
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bruno-henrique-ferraz-ribeiro-55910232a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:brunoa2ccount@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
