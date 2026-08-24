@@ -13,6 +13,8 @@
 
 ### 🧭 Sobre mim
 
+Programador em formação com muita vontade de aprender novas tecnologias e linguagens. Meu objetivo é contribuir para a criação de projetos que resolvam necessidades reais, aplicando meus conhecimentos práticos em automação e desenvolvimento back-end. 
+
 - 🎓 Cursando **Engenharia de Software** na Unaerp (2024 – 2028)
 - 💼 Atuo como **Suporte de Sistemas** na Krolik – Tecnologia em Nuvem, onde apoio a criação de automações com **n8n** e **JavaScript**
 - 🌱 Aprofundando conhecimentos em **desenvolvimento backend** e **APIs REST**
