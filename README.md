@@ -63,11 +63,12 @@
 
 ### 📊 Estatísticas do GitHub
 
-<a href="https://github-stats-extended.vercel.app/api/top-langs?username=Mayhemvc&layout=default&langs_count=4&card_width=320">
+<a href="https://github.com/Mayhemvc">
   <img
     height="200"
     align="center"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=Mayhemvc&layout=default&langs_count=4&card_width=320"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=Mayhemvc&layout=normal&langs_count=4&card_width=320"
+    alt="Linguagens mais usadas"
   />
 </a>
 
