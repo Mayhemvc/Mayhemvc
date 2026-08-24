@@ -1,4 +1,4 @@
-<h3 align="center">Desenvolvedor Júnior</h3>
+<h1 align="center">Bruno Henrique - Back-end Developer</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bruno-henrique-ferraz-ribeiro-55910232a" target="_blank">
@@ -63,14 +63,13 @@
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <a href="https://github.com/Mayhemvc">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mayhemvc&show_icons=true&theme=default&hide_border=true" alt="Estatísticas do GitHub" />
-  </a>
-  <a href="https://github.com/Mayhemvc">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayhemvc&layout=compact&hide_border=true" alt="Linguagens mais usadas" />
-  </a>
-</p>
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=Mayhemvc&layout=default&langs_count=4&card_width=320">
+  <img
+    height="200"
+    align="center"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=Mayhemvc&layout=default&langs_count=4&card_width=320"
+  />
+</a>
 
 ---
 
